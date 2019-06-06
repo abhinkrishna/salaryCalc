@@ -1,0 +1,11 @@
+Number of Days  : 5
+
+Total Amount    : 14058.0
+Total Expence   : 4195.0
+Total Profit    : 9863.0
+
+General Expense : 2000
+Real Profit     : 7863.0
+
+First   70%  : 5504.099999999999
+Second 30%  : 2358.9
